@@ -1,12 +1,12 @@
 ## Roadmap
 
 ## First Phase
--[] Login
--[] Parents
--[] Teachers
+-[ ] Login
+    -[ ] Parents
+    -[ ] Teachers
 
--[] Register
--[] Parents 
--[] Teachers
+-[ ] Register
+   -[ ] Parents 
+   -[ ] Teachers
 
 ## Second Phase
